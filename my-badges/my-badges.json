@@ -96,5 +96,26 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/pdfcpu/pdfcpu/issues/45\">16 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/rhnvrm/snu-data-limit/issues/5\">#5</a>: Add python script that Sends OS notification when limit about to exhaust limit",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/rhnvrm/yt2embed/issues/2\">#2</a>: Add support for custom youtube frontend",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-4",
+    "tier": 4,
+    "desc": "I closed an issue that was open for 4 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/rhnvrm/linkpage/issues/6\">#6</a>: Improve UX for re-ordering links",
+    "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
   }
 ]
