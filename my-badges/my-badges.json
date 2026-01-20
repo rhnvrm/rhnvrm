@@ -63,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
@@ -117,5 +110,19 @@
     "desc": "I closed an issue that was open for 4 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/rhnvrm/linkpage/issues/6\">#6</a>: Improve UX for re-ordering links",
     "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/rhnvrm/rohanverma.net/pull/6\">#6</a>: fix: correct listmonk role from core team to contributor",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
