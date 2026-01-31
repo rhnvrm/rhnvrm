@@ -3,7 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/pdfcpu/pdfcpu/issues/45">17 👍</a>
-* <a href="https://github.com/moltbot/nix-moltbot/issues/5">11 👍</a>
+* <a href="https://github.com/openclaw/nix-openclaw/issues/5">11 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
