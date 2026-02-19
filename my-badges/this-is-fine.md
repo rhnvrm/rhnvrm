@@ -6,6 +6,7 @@ Pull requests:
 
 - <a href="https://github.com/rhnvrm/rohanverma.net/pull/6">#6</a>: fix: correct listmonk role from core team to contributor
 - <a href="https://github.com/rhnvrm/pi-mesh/pull/1">#1</a>: fix(registry): fall back to sequential naming on collision
+- <a href="https://github.com/rhnvrm/pi-mesh/pull/2">#2</a>: fix(renderer): guard against undefined text in mesh message renderer
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

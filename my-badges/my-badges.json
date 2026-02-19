@@ -115,7 +115,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/rhnvrm/rohanverma.net/pull/6\">#6</a>: fix: correct listmonk role from core team to contributor\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/1\">#1</a>: fix(registry): fall back to sequential naming on collision",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/rhnvrm/rohanverma.net/pull/6\">#6</a>: fix: correct listmonk role from core team to contributor\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/1\">#1</a>: fix(registry): fall back to sequential naming on collision\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/2\">#2</a>: fix(renderer): guard against undefined text in mesh message renderer",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
