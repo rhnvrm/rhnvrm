@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/pdfcpu/pdfcpu/issues/45">17 👍</a>
+* <a href="https://github.com/pdfcpu/pdfcpu/issues/45">18 👍</a>
 * <a href="https://github.com/openclaw/nix-openclaw/issues/5">12 👍</a>
 
 
