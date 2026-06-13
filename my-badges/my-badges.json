@@ -91,20 +91,6 @@
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   },
   {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/rhnvrm/yt2embed/issues/2\">#2</a>: Add support for custom youtube frontend",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
-    "id": "old-issue-4",
-    "tier": 4,
-    "desc": "I closed an issue that was open for 4 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/rhnvrm/linkpage/issues/6\">#6</a>: Improve UX for re-ordering links",
-    "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
-  },
-  {
     "id": "public-keys-3",
     "tier": 3,
     "desc": "I have three public keys",
@@ -121,8 +107,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 11 my own repositories.",
-    "body": "- <a href=\"https://github.com/rhnvrm/brick_game\">rhnvrm/brick_game</a>\n- <a href=\"https://github.com/rhnvrm/merapaisa\">rhnvrm/merapaisa</a>\n- <a href=\"https://github.com/rhnvrm/lyric-api\">rhnvrm/lyric-api</a>\n- <a href=\"https://github.com/rhnvrm/snu-data-limit\">rhnvrm/snu-data-limit</a>\n- <a href=\"https://github.com/rhnvrm/Baato\">rhnvrm/Baato</a>\n- <a href=\"https://github.com/rhnvrm/youtube-local\">rhnvrm/youtube-local</a>\n- <a href=\"https://github.com/rhnvrm/30s_challenge\">rhnvrm/30s_challenge</a>\n- <a href=\"https://github.com/rhnvrm/SubScribe\">rhnvrm/SubScribe</a>\n- <a href=\"https://github.com/rhnvrm/back2work\">rhnvrm/back2work</a>\n- <a href=\"https://github.com/rhnvrm/breeze-photo-booth\">rhnvrm/breeze-photo-booth</a>\n- <a href=\"https://github.com/rhnvrm/codechef-api-bouncer\">rhnvrm/codechef-api-bouncer</a>",
+    "desc": "I've starred 13 my own repositories.",
+    "body": "- <a href=\"https://github.com/rhnvrm/brick_game\">rhnvrm/brick_game</a>\n- <a href=\"https://github.com/rhnvrm/merapaisa\">rhnvrm/merapaisa</a>\n- <a href=\"https://github.com/rhnvrm/lyric-api\">rhnvrm/lyric-api</a>\n- <a href=\"https://github.com/rhnvrm/snu-data-limit\">rhnvrm/snu-data-limit</a>\n- <a href=\"https://github.com/rhnvrm/Baato\">rhnvrm/Baato</a>\n- <a href=\"https://github.com/rhnvrm/youtube-local\">rhnvrm/youtube-local</a>\n- <a href=\"https://github.com/rhnvrm/30s_challenge\">rhnvrm/30s_challenge</a>\n- <a href=\"https://github.com/rhnvrm/SubScribe\">rhnvrm/SubScribe</a>\n- <a href=\"https://github.com/rhnvrm/back2work\">rhnvrm/back2work</a>\n- <a href=\"https://github.com/rhnvrm/breeze-photo-booth\">rhnvrm/breeze-photo-booth</a>\n- <a href=\"https://github.com/rhnvrm/codechef-api-bouncer\">rhnvrm/codechef-api-bouncer</a>\n- <a href=\"https://github.com/rhnvrm/ConstAssemblyBot\">rhnvrm/ConstAssemblyBot</a>\n- <a href=\"https://github.com/rhnvrm/linkpage\">rhnvrm/linkpage</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
