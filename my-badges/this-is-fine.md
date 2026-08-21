@@ -8,6 +8,7 @@ Pull requests:
 - <a href="https://github.com/rhnvrm/pi-mesh/pull/1">#1</a>: fix(registry): fall back to sequential naming on collision
 - <a href="https://github.com/rhnvrm/pi-mesh/pull/2">#2</a>: fix(renderer): guard against undefined text in mesh message renderer
 - <a href="https://github.com/rhnvrm/pi-mesh/pull/3">#3</a>: fix: use truncateToWidth in message renderer to handle wide chars
+- <a href="https://github.com/oddship/moat/pull/1">#1</a>: docs(layouts): document custom oat theming
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

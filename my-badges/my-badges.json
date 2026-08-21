@@ -101,7 +101,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/rhnvrm/rohanverma.net/pull/6\">#6</a>: fix: correct listmonk role from core team to contributor\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/1\">#1</a>: fix(registry): fall back to sequential naming on collision\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/2\">#2</a>: fix(renderer): guard against undefined text in mesh message renderer\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/3\">#3</a>: fix: use truncateToWidth in message renderer to handle wide chars",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/rhnvrm/rohanverma.net/pull/6\">#6</a>: fix: correct listmonk role from core team to contributor\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/1\">#1</a>: fix(registry): fall back to sequential naming on collision\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/2\">#2</a>: fix(renderer): guard against undefined text in mesh message renderer\n- <a href=\"https://github.com/rhnvrm/pi-mesh/pull/3\">#3</a>: fix: use truncateToWidth in message renderer to handle wide chars\n- <a href=\"https://github.com/oddship/moat/pull/1\">#1</a>: docs(layouts): document custom oat theming",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
