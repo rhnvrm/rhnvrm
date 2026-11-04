@@ -24,5 +24,14 @@ jobs:
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh recent GitHub activity'
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo 'Failed to push activity after 3 attempts' >&2
+                exit 1
+              fi
+              sleep "$((attempt * 5))"
+            done
           fi
